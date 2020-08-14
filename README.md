@@ -15,3 +15,8 @@
 * figure out how to process that json and act accoringly
 
 Im pretty sure all of that is what fulfillment is
+
+## 14/8/20
+
+- function to move curtains up works from google home
+- Unsure if the curtains actually move
